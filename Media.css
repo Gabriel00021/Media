@@ -1,0 +1,27 @@
+.pai{
+
+background: linear-gradient(90deg, #0652a9 20%, #2672c8 100%);
+width: 573px;
+height: 530px;
+margin-left: 442px;
+margin-top: 111px;
+border-radius: 10px;
+}
+
+.lista{
+    display: flex;
+    font-size: 40px;
+}
+
+@media screen and (min-width:320px){
+    body{
+        font-family: sans-serif;
+        color: brown;
+        text-transform: uppercase;
+    }
+}
+
+@media screen and (min-width:481px){
+
+
+}
